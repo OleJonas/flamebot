@@ -1,0 +1,268 @@
+Dette var gårsdagens inters:
+
+-----------------------------------------------------------
+kenneth: 
+2022-01-05 13:03:43
+BuggiZ
+Singed
+Victory
+KDA: 8/17/35
+Damage: 21661
+Gold: 16923
+Lvl: 18
+CS: 52
+
+-----------------------------------------------------------
+willers: 
+2022-01-06 01:38:39
+Willers
+Sylas
+Victory
+KDA: 4/7/4
+Damage: 15547
+Gold: 6764
+Lvl: 12
+CS: 108
+
+2022-01-06 00:18:20
+Willers
+Viego
+Victory
+KDA: 2/7/3
+Damage: 6579
+Gold: 7267
+Lvl: 12
+CS: 15
+
+2022-01-05 17:25:05
+Willers
+Sett
+Victory
+KDA: 4/9/1
+Damage: 10471
+Gold: 9431
+Lvl: 15
+CS: 140
+
+2022-01-05 00:34:26
+Willers
+Talon
+Defeat
+KDA: 3/10/7
+Damage: 9833
+Gold: 8174
+Lvl: 13
+CS: 36
+
+2022-01-04 23:57:45
+Willers
+Viktor
+Defeat
+KDA: 6/11/4
+Damage: 22387
+Gold: 12247
+Lvl: 16
+CS: 157
+
+2022-01-04 23:21:28
+Willers
+Corki
+Defeat
+KDA: 5/12/10
+Damage: 17682
+Gold: 10699
+Lvl: 14
+CS: 133
+
+2022-01-04 22:43:02
+Willers
+Riven
+Defeat
+KDA: 5/8/6
+Damage: 15979
+Gold: 12689
+Lvl: 16
+CS: 188
+
+2022-01-04 19:05:55
+Willers
+Fiora
+Defeat
+KDA: 4/11/3
+Damage: 21682
+Gold: 12713
+Lvl: 16
+CS: 200
+
+2022-01-04 18:28:52
+Willers
+Fiora
+Defeat
+KDA: 5/11/4
+Damage: 16148
+Gold: 10542
+Lvl: 15
+CS: 173
+
+-----------------------------------------------------------
+gule: 
+2022-01-05 20:24:39
+Amarillo
+Zilean
+Defeat
+KDA: 2/8/10
+Damage: 13781
+Gold: 10774
+Lvl: 17
+CS: 199
+
+-----------------------------------------------------------
+eric: 
+2022-01-06 01:49:40
+Lukter bæsj
+Talon
+Victory
+KDA: 3/6/7
+Damage: 9900
+Gold: 9419
+Lvl: 13
+CS: 5
+
+2022-01-05 01:01:09
+Lukter bæsj
+Ekko
+Defeat
+KDA: 1/9/4
+Damage: 7426
+Gold: 7382
+Lvl: 13
+CS: 33
+
+2022-01-04 22:06:45
+Lukter bæsj
+Talon
+Defeat
+KDA: 2/9/1
+Damage: 6628
+Gold: 6651
+Lvl: 10
+CS: 8
+
+-----------------------------------------------------------
+henrik: 
+2022-01-06 15:01:56
+GRETALOVESU
+MissFortune
+Defeat
+KDA: 6/10/8
+Damage: 28016
+Gold: 13989
+Lvl: 16
+CS: 194
+
+2022-01-04 23:33:17
+GRETALOVESU
+Jhin
+Defeat
+KDA: 4/10/7
+Damage: 16413
+Gold: 8647
+Lvl: 13
+CS: 123
+
+2022-01-04 18:39:18
+GRETALOVESU
+Darius
+Defeat
+KDA: 5/10/4
+Damage: 11656
+Gold: 11612
+Lvl: 17
+CS: 174
+
+-----------------------------------------------------------
+kirat: 
+2022-01-04 22:10:04
+Nebula SK
+Akali
+Defeat
+KDA: 3/17/6
+Damage: 16837
+Gold: 8920
+Lvl: 13
+CS: 97
+
+2022-01-04 20:50:21
+Nebula SK
+Yasuo
+Victory
+KDA: 1/18/6
+Damage: 11289
+Gold: 10650
+Lvl: 16
+CS: 172
+
+-----------------------------------------------------------
+simen: 
+2022-01-04 23:33:17
+Crowman
+Pyke
+Defeat
+KDA: 6/10/4
+Damage: 8483
+Gold: 9112
+Lvl: 11
+CS: 18
+
+2022-01-04 20:46:54
+Crowman
+Pyke
+Defeat
+KDA: 4/7/6
+Damage: 5225
+Gold: 7063
+Lvl: 10
+CS: 35
+
+2022-01-04 19:59:04
+Crowman
+Fiddlesticks
+Defeat
+KDA: 3/13/16
+Damage: 14413
+Gold: 12656
+Lvl: 17
+CS: 35
+
+2022-01-04 19:22:48
+Crowman
+Fiddlesticks
+Victory
+KDA: 1/8/11
+Damage: 12193
+Gold: 9143
+Lvl: 14
+CS: 14
+
+-----------------------------------------------------------
+braathen: 
+2022-01-05 01:33:34
+Braathen
+Urgot
+Victory
+KDA: 2/5/7
+Damage: 16399
+Gold: 11984
+Lvl: 17
+CS: 214
+
+2022-01-05 01:01:09
+Braathen
+Yone
+Defeat
+KDA: 4/7/3
+Damage: 13663
+Gold: 9447
+Lvl: 14
+CS: 163
+
